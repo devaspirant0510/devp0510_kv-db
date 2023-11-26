@@ -1,6 +1,6 @@
 {
   "name": "@devp0510/kv-db",
-  "version": "0.0.1-alpha",
+  "version": "0.0.2-alpha",
   "description": "indexed db library",
   "main": "dist/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devaspirant0510/devp0510_kv-db.git"
+    "url": "git+https://github.com/devaspirant0510/devp0510_kv-db.git"
   },
   "author": "devaspirant0510",
   "license": "MIT",

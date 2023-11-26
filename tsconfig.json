@@ -6,8 +6,8 @@
 //    "target": "es2015",
 //    "module": "es2020",
     "outDir": "./dist",
-    "declaration": false,
-//    "declarationDir": "./types",
+    "declaration": true,
+    "declarationDir": "./types",
 
 
     "strict": true,
