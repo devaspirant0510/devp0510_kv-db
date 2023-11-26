@@ -14,5 +14,6 @@
   "license": "MIT",
   "dependencies": {
     "typescript": "^5.3.2"
-  }
+  },
+  "keywords": ["webStorage","idb","indexedDB","localDB"]
 }

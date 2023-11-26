@@ -1,4 +1,6 @@
 .idea/
+
+test/
 # Logs
 logs
 *.log
