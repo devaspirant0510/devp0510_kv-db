@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    // 빌드방식
+    "target": "es2015",
+    "module": "commonjs",
+//    "target": "es2015",
+//    "module": "es2020",
+    "outDir": "./dist",
+    "declaration": false,
+//    "declarationDir": "./types",
+
+
+    "strict": true,
+    "typeRoots": [
+      "./types ",
+      "./node_modules/@types"
+    ],
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "inlineSourceMap": false,
+    "listEmittedFiles": false,
+    "listFiles": false,
+    "moduleResolution": "node",
+    "noFallthroughCasesInSwitch": true,
+    "pretty": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "traceResolution": false
+  },
+  "compileOnSave": false,
+  "exclude": [
+    "node_modules",
+    "dist"
+  ],
+  "include": [
+    "."
+  ]
+}
